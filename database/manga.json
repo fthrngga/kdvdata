@@ -1,0 +1,36 @@
+{
+  "manga_id": "a-dragonslayers-peerless-regression",
+  "title": "A Dragonslayer's Peerless Regression",
+  "alternative_title": "Return of the Peerless Dragon Slayer",
+  "status": "Ongoing",
+  "author": "Kite",
+  "artist": "Studio Inus",
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Adventure",
+    "Shounen",
+    "Regression"
+  ],
+  "type": "Manhwa",
+  "release_year": 2023,
+  "rating": 4.8,
+  "synopsis": "Bahkan setelah mengorbankan segalanya untuk membunuh naga terakhir yang membawa kiamat, pahlawan kita menemui ajalnya. Namun, takdir memberinya kesempatan kedua. Ia kembali ke masa lalu dengan ingatan utuh dan kekuatan luar biasa untuk mengubah sejarah dan memastikan umat manusia tidak lagi menjadi mangsa. Ini adalah kisah regresi dari sang Pembunuh Naga yang tiada banding.",
+  "cover_url": "https://raw.githubusercontent.com/KDVComic/assets/main/covers/a-dragonslayers-peerless-regression.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Kematian dan Permulaan Baru",
+      "pages_count": 45,
+      "size_mb": 5.2,
+      "cbz_url": "https://raw.githubusercontent.com/KDVComic/assets/main/cbz/a-dragonslayers-peerless-regression-ch001.cbz"
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Kembali ke Akademi",
+      "pages_count": 50,
+      "size_mb": 6.1,
+      "cbz_url": "https://raw.githubusercontent.com/KDVComic/assets/main/cbz/a-dragonslayers-peerless-regression-ch002.cbz"
+    }
+  ]
+}
