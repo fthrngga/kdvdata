@@ -1,36 +1,45 @@
 {
   "manga_id": "a-dragonslayers-peerless-regression",
-  "title": "A Dragonslayer's Peerless Regression",
-  "alternative_title": "Return of the Peerless Dragon Slayer",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": "Slayer Regression, Yang Mulia Pembantai Naga Kembali ke Masa Lalu",
   "status": "Ongoing",
-  "author": "Kite",
+  "author": "Woo Gak",
   "artist": "Studio Inus",
   "genres": [
     "Action",
-    "Fantasy",
     "Adventure",
+    "Fantasy",
     "Shounen",
+    "Martial Arts",
     "Regression"
   ],
   "type": "Manhwa",
   "release_year": 2023,
   "rating": 4.8,
-  "synopsis": "Bahkan setelah mengorbankan segalanya untuk membunuh naga terakhir yang membawa kiamat, pahlawan kita menemui ajalnya. Namun, takdir memberinya kesempatan kedua. Ia kembali ke masa lalu dengan ingatan utuh dan kekuatan luar biasa untuk mengubah sejarah dan memastikan umat manusia tidak lagi menjadi mangsa. Ini adalah kisah regresi dari sang Pembunuh Naga yang tiada banding.",
-  "cover_url": "https://raw.githubusercontent.com/KDVComic/assets/main/covers/a-dragonslayers-peerless-regression.jpg",
+  "synopsis": "Siles, manusia terkuat dan pembantai naga terakhir, berhasil membunuh naga kehancuran namun harus kehilangan seluruh kameradnya. Di ambang kematiannya, ia secara misterius terbangun kembali ke masa 10 tahun yang lalu, saat dirinya masih menjadi seorang kadet rekrutan. Dengan pengetahuan masa depan dan kemampuan bertarung yang telah terasah, Siles bertekad untuk mengubah takdir dan menyelamatkan semua orang dari kepunahan.",
+  "cover_url": "https://raw.githubusercontent.com/kdvcomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/cover.jpg",
   "chapters": [
     {
-      "chapter_number": 1,
-      "chapter_title": "Kematian dan Permulaan Baru",
-      "pages_count": 45,
-      "size_mb": 5.2,
-      "cbz_url": "https://raw.githubusercontent.com/KDVComic/assets/main/cbz/a-dragonslayers-peerless-regression-ch001.cbz"
+      "chapter_number": "01",
+      "chapter_title": "Batas Akhir Manusia",
+      "images": [
+        "https://raw.githubusercontent.com/kdvcomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-01/001.jpg",
+        "https://raw.githubusercontent.com/kdvcomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-01/002.jpg",
+        "https://raw.githubusercontent.com/kdvcomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-01/003.jpg",
+        "https://raw.githubusercontent.com/kdvcomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-01/004.jpg",
+        "https://raw.githubusercontent.com/kdvcomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-01/005.jpg"
+      ]
     },
     {
-      "chapter_number": 2,
-      "chapter_title": "Kembali ke Akademi",
-      "pages_count": 50,
-      "size_mb": 6.1,
-      "cbz_url": "https://raw.githubusercontent.com/KDVComic/assets/main/cbz/a-dragonslayers-peerless-regression-ch002.cbz"
+      "chapter_number": "02",
+      "chapter_title": "Kesempatan Kedua",
+      "images": [
+        "https://raw.githubusercontent.com/kdvcomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-02/001.jpg",
+        "https://raw.githubusercontent.com/kdvcomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-02/002.jpg",
+        "https://raw.githubusercontent.com/kdvcomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-02/003.jpg",
+        "https://raw.githubusercontent.com/kdvcomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-02/004.jpg",
+        "https://raw.githubusercontent.com/kdvcomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-02/005.jpg"
+      ]
     }
   ]
 }
