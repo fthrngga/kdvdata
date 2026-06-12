@@ -6,12 +6,36 @@
     "status": "Ongoing",
     "author": "Unknown",
     "artist": "Unknown",
-    "genres": ["Action"],
+    "genres": [
+      "Action"
+    ],
     "type": "Manhwa",
     "release_year": 2021,
     "rating": 0,
     "synopsis": "",
     "cover_url": "https://raw.githubusercontent.com/fthrngga/kdvdata/main/Action/cover.jpg",
     "cbz_path": "Action/Villain To Kill.cbz"
+  },
+  {
+    "manga_id": "crimson-reset",
+    "title": "Crimson Reset",
+    "status": "Ongoing",
+    "genres": [
+      "Fantasy"
+    ],
+    "type": "Fantasy",
+    "cbz_path": "Fantasy/Crimson Reset.cbz",
+    "cover_url": "https://raw.githubusercontent.com/fthrngga/kdvdata/main/Fantasy/cover.jpg"
+  },
+  {
+    "manga_id": "echoes-of-the-reverse-planet",
+    "title": "Echoes Of The Reverse Planet",
+    "status": "Ongoing",
+    "genres": [
+      "Fantasy"
+    ],
+    "type": "Fantasy",
+    "cbz_path": "Fantasy/Echoes of the Reverse Planet.cbz",
+    "cover_url": "https://raw.githubusercontent.com/fthrngga/kdvdata/main/Fantasy/cover.jpg"
   }
 ]
